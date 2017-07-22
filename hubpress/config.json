@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://tapananand.github.io/hubpress.io",
+    "hubpress": "https://tapananand.github.io/hubpress.io",
+    "theme": "//tapananand.github.io/hubpress.io/themes/casper",
+    "images": "https://tapananand.github.io/hubpress.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
